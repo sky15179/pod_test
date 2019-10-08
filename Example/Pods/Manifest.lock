@@ -2,15 +2,15 @@ PODS:
   - pod_test (0.1.0)
 
 DEPENDENCIES:
-  - pod_test (from `../`)
+  - pod_test (from `../pod_test.podspec`)
 
 EXTERNAL SOURCES:
   pod_test:
-    :path: "../"
+    :podspec: "../pod_test.podspec"
 
 SPEC CHECKSUMS:
-  pod_test: 9cd74fd793eb3d13eda0929ea4f4fd70593a221f
+  pod_test: d257d5e7f905139bcb7309ce6309fc321744f2c4
 
-PODFILE CHECKSUM: e24eeb7bde61fb55db24f465195b58b5445bb47a
+PODFILE CHECKSUM: 48c62ec3ddb0cc987b857762cda5fb307b49f53f
 
 COCOAPODS: 1.5.3
